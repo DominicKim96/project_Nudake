@@ -176,16 +176,16 @@
     transition: all 1s;
 
 }
-.main_banner1 { background: url(./main_banner/1.jpg) no-repeat center / cover; }
-.main_banner2 { background: url(./main_banner/2.jpg) no-repeat center / cover; }
-.main_banner3 { background: url(./main_banner/3.jpg) no-repeat center / cover; }
-.main_banner4 { background: url(./main_banner/4.jpg) no-repeat center / cover; }
-.main_banner5 { background: url(./main_banner/5.jpg) no-repeat center / cover; }
-.main_banner6 { background: url(./main_banner/6.jpg) no-repeat center / cover; }
-.main_banner7 { background: url(./main_banner/7.jpg) no-repeat center / cover; }
-.main_banner8 { background: url(./main_banner/8.jpg) no-repeat center / cover; }
-.main_banner9 { background: url(./main_banner/9.jpg) no-repeat center / cover; }
-.main_banner10 { background: url(./main_banner/10.jpg) no-repeat center / cover; }
+.main_banner1 { background: url(../main_banner/1.jpg) no-repeat center / cover; }
+.main_banner2 { background: url(../main_banner/2.jpg) no-repeat center / cover; }
+.main_banner3 { background: url(../main_banner/3.jpg) no-repeat center / cover; }
+.main_banner4 { background: url(../main_banner/4.jpg) no-repeat center / cover; }
+.main_banner5 { background: url(../main_banner/5.jpg) no-repeat center / cover; }
+.main_banner6 { background: url(../main_banner/6.jpg) no-repeat center / cover; }
+.main_banner7 { background: url(../main_banner/7.jpg) no-repeat center / cover; }
+.main_banner8 { background: url(../main_banner/8.jpg) no-repeat center / cover; }
+.main_banner9 { background: url(../main_banner/9.jpg) no-repeat center / cover; }
+.main_banner10 { background: url(../main_banner/10.jpg) no-repeat center / cover; }
 .main_banner_active { opacity: 1; }
 
 
@@ -267,14 +267,14 @@
 }
 .event_sec_active { opacity: 1; }
 .event_sec_box:hover {bottom: 30px;}
-.event_sec_item1 { background: url(./nudake_newjeans/1.jpg) no-repeat center / cover; }
-.event_sec_item2 { background: url(./nudake_newjeans/2.jpg) no-repeat center / cover; }
-.event_sec_item3 { background: url(./nudake_newjeans/3.jpg) no-repeat center / cover; }
-.event_sec_item4 { background: url(./nudake_newjeans/4.jpg) no-repeat center / cover; }
-.event_sec_item5 { background: url(./nudake_newjeans/5.jpg) no-repeat center / cover; }
-.event_sec_item6 { background: url(./nudake_newjeans/6.jpg) no-repeat center / cover; }
-.event_sec_item7 { background: url(./nudake_newjeans/7.jpg) no-repeat center / cover; }
-.event_sec_item8 { background: url(./nudake_newjeans/8.jpg) no-repeat center / cover; }
+.event_sec_item1 { background: url(../nudake_newjeans/1.jpg) no-repeat center / cover; }
+.event_sec_item2 { background: url(../nudake_newjeans/2.jpg) no-repeat center / cover; }
+.event_sec_item3 { background: url(../nudake_newjeans/3.jpg) no-repeat center / cover; }
+.event_sec_item4 { background: url(../nudake_newjeans/4.jpg) no-repeat center / cover; }
+.event_sec_item5 { background: url(../nudake_newjeans/5.jpg) no-repeat center / cover; }
+.event_sec_item6 { background: url(../nudake_newjeans/6.jpg) no-repeat center / cover; }
+.event_sec_item7 { background: url(../nudake_newjeans/7.jpg) no-repeat center / cover; }
+.event_sec_item8 { background: url(../nudake_newjeans/8.jpg) no-repeat center / cover; }
 /****************************************/
 /***************follow_us****************/
 /****************************************/
